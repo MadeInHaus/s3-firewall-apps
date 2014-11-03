@@ -1,0 +1,5 @@
+gunicorn
+gevent
+boto
+-e git://github.com/MadeInHaus/s3firewall#egg=s3firewall
+
